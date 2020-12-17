@@ -1,4 +1,4 @@
-# vue-uploader
+# files upload
 
 ## Project setup
 ```
